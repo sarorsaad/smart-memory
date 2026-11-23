@@ -1,6 +1,6 @@
 // خدمة العمل دون اتصال لنسخة التثبيت (PWA).
 // عند نشر نسخة جديدة غيّري رقم VERSION ليُحدَّث التطبيق عند المستخدمين.
-const VERSION = 'smart-memory-2026-11-23-web';
+const VERSION = 'smart-memory-2026-11-24-tour';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png'];
 
 self.addEventListener('install', (event) => {
